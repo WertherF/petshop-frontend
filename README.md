@@ -1,4 +1,10 @@
-# MasPetshop
+# MAS PetShop
+
+Sistema de loja virtual com carrinho, página de contato e buscas.
+
+Estudo de frontend com Angular e TypsScript.
+
+<hr>
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.5.
 
